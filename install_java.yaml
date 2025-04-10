@@ -2,5 +2,4 @@
   hosts: package
   become: yes
   roles:
-
      - install java_11 and java_17
