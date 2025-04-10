@@ -1,0 +1,6 @@
+- name: install java11 and java17
+  hosts: package
+  become: yes
+  roles:
+
+     - install java_11 and java_17
