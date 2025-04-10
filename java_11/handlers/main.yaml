@@ -1,0 +1,4 @@
+- name: start the java 11
+  service:
+      name: java
+      notify: started
